@@ -1,0 +1,10 @@
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+E:\DSC3\Hospitalizacion7\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
