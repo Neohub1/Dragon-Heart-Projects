@@ -6,5 +6,6 @@ namespace HospiEnCasa.App.Dominio
         femenino,
         masculino,
         transexual,
+        Pansexual
     }
 }
